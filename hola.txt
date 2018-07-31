@@ -1,0 +1,4 @@
+Jaime Díaz Altamirano está editando este archivo.
+La información se guarda con :w
+Estudiante de la FCC, BUAP
+Profesor de la PEZ, BUAP
