@@ -1,0 +1,3 @@
+Actualmente escribiendo una tesis acerca de lógica no clásica. En concreto, lógica paraconsistente. Se trata de un estudio sobre algunas de las principales propiedades y características de la lógica SP3A propuesta por Béziau en 20176.
+Esto debido al interés que me producen los lenguajes y la teoría de la información.
+La tesis no está siendo escrita tan rápido como yo desearía debido a mis múltiples roles que debo cumplir -estudiante, profesor, padre, hijo- y a la procastinación intensa que me produce el déficit de atención. ¡Debo hallar una terapia que funcione para esto último!
